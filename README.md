@@ -1,5 +1,5 @@
 # VBA-Challenge
-# During this challenge I was require to sort through a data set containing stock tickers and their coresponding open and close price on a given date.
+# During this challenge I was required to sort through a data set containing stock tickers and their coresponding open and close price on a given date.
 # Using a Macro I then completed the following steps: 
 * Create a script that will loop through all the stocks for one year and output the following information.
 
